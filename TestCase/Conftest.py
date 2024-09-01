@@ -33,4 +33,9 @@ def setup():
     # Navigate to the web page
     driver.get("https://borrow-3b1b3.web.app/")
 
+    # Apply mobile emulation settings
+    chrome_options.add_experimental_option("mobileEmulation", mobile_emulation)
 
+    yield
+    # Close the driver session
+    driver.quit()

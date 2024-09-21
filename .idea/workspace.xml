@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d191959-23ec-4ba0-a44e-db6fe4969f23" name="Changes" comment="Framework">
-      <change beforePath="$PROJECT_DIR$/TestCase/Conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Configfiles/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilies/Logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilies/utilies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Logging/Logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/Conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/Testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/Testcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +34,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vishalmanojvs&quot;
+  }
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="6ef7d009-248e-4dd7-aca6-8b28eb0e2870" />
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vishalmanojvs/Borrow-Page-Object-Model.git&quot;,
+    &quot;accountId&quot;: &quot;6ef7d009-248e-4dd7-aca6-8b28eb0e2870&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -42,17 +63,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in Testcase.py.executor": "Run",
     "Python.Conftest.executor": "Run",
+    "Python.conftest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/WIN/PycharmProjects/Borrow-Page-Object-Model",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "last_opened_file_path": "C:/Users/WIN/whatsAppChatBot",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\WIN\PycharmProjects\Borrow-Page-Object-Model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WIN\PycharmProjects\Borrow-Page-Object-Model\Utilies" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -82,8 +108,43 @@
       <option name="project" value="LOCAL" />
       <updated>1725177584127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Framework">
+      <option name="closed" value="true" />
+      <created>1725185988853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725185988853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Framework">
+      <option name="closed" value="true" />
+      <created>1725186269283</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725186269283</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Framework">
+      <option name="closed" value="true" />
+      <created>1725186336776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725186336776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Framework" />
